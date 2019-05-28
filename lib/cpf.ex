@@ -1,6 +1,6 @@
 defmodule CPF do
   @moduledoc """
-  CPF mobulde provides functions to verify if a CPF is valid.
+  CPF module provides functions to verify if a CPF is valid.
   """
 
   @typedoc """
